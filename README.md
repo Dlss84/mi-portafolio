@@ -4,7 +4,7 @@ Este es Mi Portafolio creado en HTML, CSS, React
 ## Autor 🖊
 **DANIEL SEBASTIANI SOBENES**
 
-* [LinkedIn](www.linkedin.com/in/danielsebastianis/)
+* [LinkedIn](https://www.linkedin.com/in/danielsebastianis/)
 
 
 ## Ver ejemplo en Vivo
